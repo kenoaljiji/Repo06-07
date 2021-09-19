@@ -25,7 +25,7 @@ h2 {
 .grid-container {
   display: grid;
   justify-content: center;
-  grid-template-columns: repeat(3, 250px);
+  grid-template-columns: repeat(3, 328px);
   grid-gap: 20px;
   padding-bottom: 40px;
 }
